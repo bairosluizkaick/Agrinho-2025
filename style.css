@@ -1,0 +1,52 @@
+/* Estilo mais humanizado e acolhedor */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8f5;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
+section {
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+section h2 {
+    color: #4CAF50;
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+}
